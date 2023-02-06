@@ -1,0 +1,30 @@
+input.dni{
+    width: 290px;
+    height: 38px;
+    font-size: 16px;
+}
+textarea{
+    font-size: 16px;
+}
+
+select.form{
+    width: 300px;
+    height: 38px;
+}
+input.cuad1{
+    width: 290px;
+    height: 38px; 
+    margin-left: 3%;
+    font-size: 16px;  
+}
+input.cuad2{
+    width: 290px;
+    height: 38px;
+    font-size: 16px;
+}
+h1{
+    margin-left: 7%;   
+}
+div.form3{
+    margin-left: 33%;
+}
